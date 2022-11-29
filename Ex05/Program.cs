@@ -1,5 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.Write("Введите имя :");
+﻿Console.Write("Введите имя :");
 string username = Console.ReadLine();
 
 if(username.ToLower() =="юля")
